@@ -8,7 +8,7 @@ sdk_version: "5.49.1"
 
 A personal resume agent that chats as you: answers questions about your career, background, skills, and experience using your summary and resume. Built with OpenAI, Gradio, RAG, and persistent chat history.
 
-**Try it:** [Open on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_HF_USERNAME/abiddhanani-profile-agent) *(replace `YOUR_HF_USERNAME` with your Hugging Face username after deploy)*
+**Try it:** [Open on Hugging Face Spaces](https://huggingface.co/spaces/AbidDhanani77/abiddhanani_profile_agent) 
 
 ## Architecture
 
@@ -20,15 +20,6 @@ The agent uses two main improvements over the original design:
 
 2. **In-session memory via Gradio** – Chat history is persisted in the browser (`save_history=True`). Users can refresh or return later and continue their conversation. History is truncated to the last 10 turns to control context size.
 
-### Before vs After
-
-| Aspect | Before | After |
-|--------|--------|-------|
-| **System prompt** | Full summary + full resume (~2–5k tokens) on every request | Short instructions (~200–400 tokens); profile fetched on demand |
-| **Profile retrieval** | Entire document in every API call | Relevant chunks only via `search_profile` tool (~200–600 tokens when used) |
-| **Chat history** | In-memory for active session only | Persisted in browser; survives refresh and return visits |
-| **History length** | Unbounded (token growth over long chats) | Last 10 message pairs kept for context |
-| **Token usage** | High, especially for long resumes | Lower; retrieval scales with query relevance |
 
 ### Current state
 
