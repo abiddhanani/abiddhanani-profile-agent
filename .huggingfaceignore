@@ -1,0 +1,20 @@
+# Exclude large or unnecessary files from Hugging Face upload (gradio deploy).
+# Same as .gitignore; some HF tooling may use this to keep uploads small.
+.venv/
+venv/
+__pycache__/
+.git/
+.chroma_profile/
+*.pyc
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+uv.lock
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/

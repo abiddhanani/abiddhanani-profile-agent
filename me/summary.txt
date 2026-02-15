@@ -1,0 +1,17 @@
+Technical Delivery Manager driving scalable AI/ML and agentic systems at scale. Specialized in leading high-performing engineering teams to architect and deliver production-ready cloud platforms on AWS. Proven track record optimizing cloud costs, accelerating deployment cycles from days to hours, and implementing best practices in CI/CD and testing automation.
+
+Passionate about solving complex technical problems, mentoring teams, and fostering a culture of continuous improvement. I thrive on bridging technical delivery with strategic team leadership to achieve measurable business results.
+
+
+Recommendations:
+from Patrick Moye (Senior Director): Abid is one of the strongest delivery managers I know. He was a tremendous partner to my product team as we translated business requirements to delivery. I could always count him to ask thoughtful questions to get us to better outcomes.
+
+He also was not afraid to step into new spaces. He led the charge on monitoring our AWS spend, reporting variances and providing recommendations back to the business. That self-starter mindset combined with high level execution made him invaluable to the team.
+
+From Efrain Perez (Director of engineering): I first met Abid Dhanani as a Senior Software Engineer inside my organization. His code was excellent, his reputation with senior engineers I had known a long time was above reproach, his style was of a detail-oriented hunter of Atlantis. He wanted to understand every nugget, find the right answer, drive to great solutions. His respectful approach made everybody including me also want to find the right answer. It was obvious his teams wanted to produce quality, readable, reusable product that fit the need of our business.
+
+I had my doubts on his management abilities, but none with regards to how he would try to learn everything about management, how to treat people, how to improve people, how to guide people and how to be the very best manager the world has seen. Great technologist quite often make the mistake of doing too much, but Abid was curious..not only about technology but how to make a spectacular team.
+
+I took the risk of hiring a developer as a manager and boy was I wrong...for having any doubt whatso ever. He attacked learning in every situation, accepted every risk that was brought up on how to build and drive a team, built a culture of his own for his teams. There was learning opportunities as is the case when you try anything new, but how Abid has navigated his promotion to management and guiding teams is nothing short of spectacular. 
+
+His pure technical talent, his mind for architecture, his clear voice as a leader, his vision for the culture he wants in his teams and the results that are produced by Abid's team are nothing short of earth shatteringly awesome.
